@@ -2066,7 +2066,9 @@ pre code {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
-    padding-left: 15px
+    padding-left: 15px;
+    width: 100%;
+    
 }
 
 .col-xs-1,
@@ -2322,7 +2324,7 @@ pre code {
         width: 58.33333333%
     }
     .col-sm-6 {
-        width: 50%
+        width: 100%
     }
     .col-sm-5 {
         width: 41.66666667%
